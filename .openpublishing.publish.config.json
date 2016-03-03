@@ -1,0 +1,33 @@
+{
+  "build_entry_point": "",
+  "need_generate_pdf": false,
+  "docsets_to_publish": [
+    {
+      "docset_name": "OLSource1",
+      "build_source_folder": null,
+      "build_output_subfolder": "OLSource1/v1",
+      "build_entry_point": "op.ps1",
+      "locale": "zh-cn",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content"
+      }
+    },
+    {
+      "docset_name": "OLSource11",
+      "build_source_folder": null,
+      "build_output_subfolder": "OLSource1/v2",
+      "build_entry_point": "op.ps1",
+      "locale": "zh-cn",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content"
+      }
+    }
+  ],
+  "notification_subscribers": null
+}
